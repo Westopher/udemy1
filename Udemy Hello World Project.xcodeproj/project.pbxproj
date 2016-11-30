@@ -12,6 +12,7 @@
 		3D0412171DECA583006C14B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D0412151DECA583006C14B1 /* Main.storyboard */; };
 		3D0412191DECA583006C14B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D0412181DECA583006C14B1 /* Assets.xcassets */; };
 		3D04121C1DECA583006C14B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D04121A1DECA583006C14B1 /* LaunchScreen.storyboard */; };
+		3DF420F81DEF719C00D19208 /* Screen Shot 2016-11-30 at 3.28.14 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 3DF420F71DEF719C00D19208 /* Screen Shot 2016-11-30 at 3.28.14 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3D0412181DECA583006C14B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D04121B1DECA583006C14B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D04121D1DECA583006C14B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DF420F71DEF719C00D19208 /* Screen Shot 2016-11-30 at 3.28.14 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2016-11-30 at 3.28.14 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				3D0412111DECA583006C14B1 /* AppDelegate.swift */,
 				3D0412131DECA583006C14B1 /* ViewController.swift */,
 				3D0412151DECA583006C14B1 /* Main.storyboard */,
+				3DF420F71DEF719C00D19208 /* Screen Shot 2016-11-30 at 3.28.14 PM.png */,
 				3D0412181DECA583006C14B1 /* Assets.xcassets */,
 				3D04121A1DECA583006C14B1 /* LaunchScreen.storyboard */,
 				3D04121D1DECA583006C14B1 /* Info.plist */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D04121C1DECA583006C14B1 /* LaunchScreen.storyboard in Resources */,
+				3DF420F81DEF719C00D19208 /* Screen Shot 2016-11-30 at 3.28.14 PM.png in Resources */,
 				3D0412191DECA583006C14B1 /* Assets.xcassets in Resources */,
 				3D0412171DECA583006C14B1 /* Main.storyboard in Resources */,
 			);
@@ -297,6 +301,7 @@
 				3D0412221DECA583006C14B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
