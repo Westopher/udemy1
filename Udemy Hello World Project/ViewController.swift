@@ -10,8 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var label: UILabel!
+    
     @IBAction func buttonTapped(_ sender: Any) {
-        print("Hello World")
+        
+        label.text = "hello world"
+        
     }
     
     override func viewDidLoad() {
